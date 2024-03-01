@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on several project
-🌱 I’m currently learning everything 🤣
-👯 I’m looking to collaborate with other content creators
-🥅 2024 Goals: Contribute more to Open Source projects
-⚡ Fun fact: I love to read & hiking
+-🔭 I’m currently working on several project
+-🌱 I’m currently learning everything 🤣
+-👯 I’m looking to collaborate with other content creators
+-🥅 2024 Goals: Contribute more to Open Source projects
+-⚡ Fun fact: I love to read & hiking
